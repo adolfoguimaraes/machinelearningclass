@@ -15,12 +15,15 @@ que criei para a disciplina de inteligência artificial que leciono.
     * **Exercício 01:** [Titanic](introduction/helloworld_exercise.ipynb)
 
 
+
 * **2. Aprendizado Supervisionado**
 `[aprendizagem supervisionada utilizando scikit-learn]`
     
     * **2.1:** [Regressão Linear e KNN](supervisedlearning/01_linearregression_knn.ipynb)
+    * **2.2:** [Validação Cruzada](supervisedlearning/02_crossvalidation.ipynb)
     
-    
+
+
 * **Gabarito dos Exercícios**
 `[respostas das atividades]`
     
