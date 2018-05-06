@@ -12,8 +12,6 @@ que criei para a disciplina de inteligência artificial que leciono.
 `[introdução à aprendizagem de máquina]`
     
     * **1.1:** [*Hello World* em Aprendizagem de Máquina](introduction/helloworld.ipynb)
-    * **Exercício 01:** [Titanic](introduction/helloworld_exercise.ipynb)
-
 
 
 * **2. Aprendizado Supervisionado**
@@ -23,9 +21,8 @@ que criei para a disciplina de inteligência artificial que leciono.
     * **2.2:** [Validação Cruzada](supervisedlearning/02_crossvalidation.ipynb)
     
 
+* **Exercícios**
 
-* **Gabarito dos Exercícios**
-`[respostas das atividades]`
-    
-    * **Introdução >> Exercício 01:** [Titanic](introduction/helloworld_exercise_answer.ipynb)
+    * **Exercício 01:** [Titanic](exercises/helloworld_exercise.ipynb) [[Gabarito](exercises/helloworld_exercise_answer.ipynb)]
+
     
