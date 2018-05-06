@@ -19,10 +19,13 @@ que criei para a disciplina de inteligência artificial que leciono.
     
     * **2.1:** [Regressão Linear e KNN](supervisedlearning/01_linearregression_knn.ipynb)
     * **2.2:** [Validação Cruzada](supervisedlearning/02_crossvalidation.ipynb)
+    * **2.3:** [Árvore de Decisão](supervisedlearning/03_decisiontree.ipynb)
     
 
 * **Exercícios**
 
     * **Exercício 01:** [Titanic](exercises/helloworld_exercise.ipynb) [[Gabarito](exercises/helloworld_exercise_answer.ipynb)]
+    * **Exercício 02:** [KNN e Validação Cruzada]()
+    * **Exercício 03:** [Titanic: Árvore de Decisão]()
 
     
