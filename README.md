@@ -26,6 +26,7 @@ que criei para a disciplina de inteligência artificial que leciono.
 
     * **Exercício 01:** [Titanic](exercises/helloworld_exercise.ipynb) [[Gabarito](exercises/helloworld_exercise_answer.ipynb)]
     * **Exercício 02:** [KNN e Validação Cruzada]()
-    * **Exercício 03:** [Titanic: Árvore de Decisão]()
+    * **Exercício 03:** [Titanic: Árvore de Decisão](exercises/decisiontree_exercise1.ipynb)
+    * **Exercício 04:** [DT e comparação](exercises/decisiontree_exercise2.ipynb)
 
     
