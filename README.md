@@ -22,6 +22,7 @@ que criei para a disciplina de inteligência artificial que leciono.
     * **2.1:** [Regressão Linear e KNN](supervisedlearning/01_linearregression_knn.ipynb)
     * **2.2:** [Validação Cruzada](supervisedlearning/02_crossvalidation.ipynb)
     * **2.3:** [Árvore de Decisão](supervisedlearning/03_decisiontree.ipynb)
+    * **2.4:** [Naive Bayes](supervisedlearning/04_naivebayes.ipynb)
     
 
 * **Exercícios**
@@ -30,5 +31,7 @@ que criei para a disciplina de inteligência artificial que leciono.
     * **Exercício 02:** [KNN e Validação Cruzada](exercises/knn_linearregression_exercise1.ipynb)
     * **Exercício 03:** [Titanic: Árvore de Decisão](exercises/decisiontree_exercise1.ipynb) [[Gabarito](exercises/decisiontree_exercise1_answer.ipynb)]
     * **Exercício 04:** [DT e comparação](exercises/decisiontree_exercise2.ipynb)
+    * **Exercício 05:** [Titanic: Naive Bayes](exercises/naivebayes_exercise1.ipynb)
+    * **Exercício 06:** [Naive Bayes](exercises/naivebayes_exercise2.ipynb)
 
     
