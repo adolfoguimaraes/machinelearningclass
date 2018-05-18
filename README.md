@@ -2,7 +2,7 @@
 
 `Material por:` [@profadolfoguimaraes](http://www.instagram.com/profadolfoguimaraes)
 
-`Atualizado em: 13/05/18`
+`Atualizado em: 18/05/18`
 
 Esse repositório armazena uma série de tutoriais relacionados ao tema de 
 aprendizagem de máquina. Ele é resultado do material de estudo pessoal e material
