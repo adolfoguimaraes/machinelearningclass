@@ -2,7 +2,7 @@
 
 `Material por:` [@profadolfoguimaraes](http://www.instagram.com/profadolfoguimaraes)
 
-`Atualizado em: 22/05/18`
+`Atualizado em: 28/05/18`
 
 Esse repositório armazena uma série de tutoriais relacionados ao tema de 
 aprendizagem de máquina. Ele é resultado do material de estudo pessoal e material
@@ -34,5 +34,7 @@ que criei para a disciplina de inteligência artificial que leciono.
     * **Exercício 04:** [DT e comparação](exercises/decisiontree_exercise2.ipynb)
     * **Exercício 05:** [Titanic: Naive Bayes](exercises/naivebayes_exercise1.ipynb)
     * **Exercício 06:** [Naive Bayes](exercises/naivebayes_exercise2.ipynb)
+    * **Exercício 07:** [Titanic: SVM](exercises/svm_exercise1.ipynb)
+    * **Exercício 08:** [SVM](exercises/svm_exercise2.ipynb)
 
     
