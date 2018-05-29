@@ -31,9 +31,9 @@ que criei para a disciplina de inteligência artificial que leciono.
     * **Exercício 01:** [Titanic](exercises/helloworld_exercise.ipynb) [[Gabarito](exercises/helloworld_exercise_answer.ipynb)]
     * **Exercício 02:** [KNN e Validação Cruzada](exercises/knn_linearregression_exercise1.ipynb) [[Gabarito](exercises/knn_linearregression_exercise1_answer.ipynb)]
     * **Exercício 03:** [Titanic: Árvore de Decisão](exercises/decisiontree_exercise1.ipynb) [[Gabarito](exercises/decisiontree_exercise1_answer.ipynb)]
-    * **Exercício 04:** [DT e comparação](exercises/decisiontree_exercise2.ipynb)
-    * **Exercício 05:** [Titanic: Naive Bayes](exercises/naivebayes_exercise1.ipynb)
-    * **Exercício 06:** [Naive Bayes](exercises/naivebayes_exercise2.ipynb)
+    * **Exercício 04:** [DT e comparação](exercises/decisiontree_exercise2.ipynb) [[Gabarito](exercises/decisiontree_exercise2_answer.ipynb)]
+    * **Exercício 05:** [Titanic: Naive Bayes](exercises/naivebayes_exercise1.ipynb) [[Gabarito](exercises/naivebayes_exercise1_answer.ipynb)]
+    * **Exercício 06:** [Naive Bayes](exercises/naivebayes_exercise2.ipynb) [[Gabarito](exercises/naivebayes_exercise2_answer.ipynb)]
     * **Exercício 07:** [Titanic: SVM](exercises/svm_exercise1.ipynb)
     * **Exercício 08:** [SVM](exercises/svm_exercise2.ipynb)
 
