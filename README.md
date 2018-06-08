@@ -24,6 +24,7 @@ que criei para a disciplina de inteligência artificial que leciono.
     * **2.3:** [Árvore de Decisão](supervisedlearning/03_decisiontree.ipynb)
     * **2.4:** [Naive Bayes](supervisedlearning/04_naivebayes.ipynb)
     * **2.5:** [SVM](supervisedlearning/05_svm.ipynb)
+    * **2.6:** [Redes Neurais](supervisedlearning/06_neuralnetworks.ipynb)
 
     
 * **Exercícios**
