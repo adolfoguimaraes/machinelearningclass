@@ -57,9 +57,12 @@ Este curso consiste em um material de suporte a disciplinas de Aprendizagem de M
 * [Hello World - Machine Learning Recipes #1 (by Josh Gordon - Google)](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 * [Visualizing a Decision Tree - Machine Learning Recipes #2 (by Josh Gordon - Google)](https://www.youtube.com/watch?v=tNa99PG8hR8)
 
-### Bibliotecas Utilizadas
+### Bibliotecas Relacionadas
+
+`Lista de bibliotecas utilizadas no projeto e bibliotecas relacionadas a IA, ML e Data Science`
 
 * [ScikitLearn](http://scikit-learn.org/)
+* [Pandas](https://pandas.pydata.org/)
 * [Tensorflow](https://www.tensorflow.org/)
 * [Numpy](http://www.numpy.org/)
 * [Scipy](https://www.scipy.org/)
