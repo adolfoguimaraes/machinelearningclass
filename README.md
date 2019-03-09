@@ -16,10 +16,10 @@ Este curso consiste em um material de suporte a disciplinas de Aprendizagem de M
 * **2.:** [Análise e Pré-processamento de dados](modulo01/02_analise_preprocessamento.ipynb) `(incompleto)`
 * **3.:** [Regressão Linear e KNN](modulo01/03_linearregression_knn.ipynb)
 * **4.:** [Exercício Titanic (Kaggle)](modulo01/04_kaggle_titanic.ipynb)
-* **5.:** [Árvore de Decisão](module01/05_decisiontree.ipynb)
-* **6.:** [Sistema de Recomendação](module01/06_recommendersystem_collaborativefiltering.ipynb)
-* **7.:** [Naive Bayes](module01/07_naivebayes.ipynb)
-* **8.:** [Naive Bayes - Exercício](module01/08_naivebayes_exercise.ipynb)
+* **5.:** [Árvore de Decisão](modulo01/05_decisiontree.ipynb)
+* **6.:** [Sistema de Recomendação](modulo01/06_recommendersystem_collaborativefiltering.ipynb)
+* **7.:** [Naive Bayes](modulo01/07_naivebayes.ipynb)
+* **8.:** [Naive Bayes - Exercício](modulo01/08_naivebayes_exercise.ipynb)
 
 ### Material em Revisão
 
