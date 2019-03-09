@@ -2,7 +2,7 @@
 
 `Material por:` [@profadolfoguimaraes](http://www.instagram.com/profadolfoguimaraes)
 
-`Os repositório está sendo reestruturado nesse início de 2019. Última atualização: 22/02/19`
+`Os repositório está sendo reestruturado nesse início de 2019. Última atualização: 09/03/19`
 
 Este curso consiste em um material de suporte a disciplinas de Aprendizagem de Máquina. O curso será construído a partir de cursos onlines, tutoriais, livros da área, além de material proposto pelo autor do curso. A seguir segue o conteúdo abordado e a lista de todo material que será usado no curso. A medida que os módulos forem sendo criados, esta lista será atualizada. 
 
