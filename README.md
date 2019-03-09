@@ -23,7 +23,7 @@ Este curso consiste em um material de suporte a disciplinas de Aprendizagem de M
 
 ### Material em Revisão
 
-`Todo material do curso está sendo revisado. Os materiais a seguir são de 2018 e estão sendo revisados em 2019. A medida que eu for revisando, vou organizado em módulos como o material acima`
+`Todo material do curso está sendo revisado. A medida que eu for revisando, vou organizado em módulos como o material acima`
 
     
 ## Material de Suporte para construção do curso:
